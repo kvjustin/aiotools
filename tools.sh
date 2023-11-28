@@ -38,7 +38,7 @@ sleep 2
 clear
 echo "$BLUE"
 echo "========================================================"
-echo "[+] Please Drink a Cup Of Sambar and Go To the Toilet..."
+echo "[+] Please Drink a bowl Of Sambar and Go To the Toilet..."
 echo "    Because this will take a long time."
 echo "========================================================"
 apt update
