@@ -4,7 +4,7 @@
 #                     BOOM BABY                        #
 #                    Coded by KV                       #
 #~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ #
-#     Instagram  :  instagram.com/the_solo._.rider     #
+#     Instagram  :  instagram.com/_.virus._exe    #
 #------------------------------------------------------#
 #               Dont try to Steal it Bitch             #
 #------------------------------------------------------#
